@@ -1,0 +1,15 @@
+{
+  "name": "web-dev-lit-sample",
+  "version": "1.0.0",
+  "description": "Sample repo for using @web/dev-server with sample Lit element",
+  "type": "module",
+  "scripts": {
+    "dev": "web-dev-server"
+  },
+  "author": "Soul_Master",
+  "license": "MIT",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.28",
+    "lit": "~2.0.2"
+  }
+}
